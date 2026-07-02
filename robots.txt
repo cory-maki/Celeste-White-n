@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /
 Disallow: /privacy.html
 
-Sitemap: https://celestewhite.netlify.app/sitemap.xml
+Sitemap: https://celeste-white.netlify.app/sitemap.xml
